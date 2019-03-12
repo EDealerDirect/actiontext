@@ -1,4 +1,4 @@
-// import * as Trix from "trix"
+import * as Trix from "trix"
 // import { AttachmentUpload } from "./attachment_upload"
 
 // addEventListener("trix-attachment-add", function(event) {
